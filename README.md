@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Lautaro Cometti, from AR.
+- 👀 I’m interested in get a job as web developer.
+- 🌱 I’m currently learning web development with React, at Coderhouse.
+- 💞️ I’m making a landing page for a hotel from here. I'm improving my CSS skills and I'll learn about databases to create a booking system for this project.
+- 📫 How to reach me ... My gmail is lautic003@gmail.com or simply @lauticometti in GitHub.
