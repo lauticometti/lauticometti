@@ -26,12 +26,11 @@
         }
 
         .container {
-          --color-main: #E61C78;
-          --color-primary: #D79AF5;
-          --color-secondary: #F912FC;
-          --color-tertiary:#282828;
+          --color-main: #282828;
+          --color-primary: #000;
+          --color-secondary: #101010;
         
-          background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary));
+          background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary));
           background-size: 400% 400%;
           animation: gradient 15s ease infinite;
 
