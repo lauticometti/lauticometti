@@ -2,7 +2,24 @@
 <h3>Soy Lautaro, Fullstack Web Developer de <img src='https://cdn-icons-png.flaticon.com/512/3909/3909430.png' alt='Argentine Flag' width='16px'/> Entre Rios, Argentina.</h3>
 
             
-         
+  <div style="width:40%; display:inline-block">
+    <h3>Cinco cosas que me gustan:</h3>
+    <p>🧠 Resolver problemas</p>
+    <p>🤍 Simplicidad en la decoracion</p>
+    <p>🆕 Aprender (si esta dificil, MEJOR)</p>
+    <p>🧉 Mate, ☕ cafe y 🍳 pancakes de proteina</p>
+    <p>👨🏽‍🍳 Cocinar</p>
+  </div>
+
+  <div style="width:40%; display:inline-block">
+    <h3>Cinco hobbies:</h3>
+    <p>🏋🏽‍♀️ Gimnasio</p>
+    <p>📖 Leer</p>
+    <p>🌱 Cultivo</p>
+    <p>🧘🏽‍♂️ Meditar</p>
+    <p>👨🏽‍🍳 Cocinar, me encanta cocinar</p>
+  </div>
+
 
 
 <p align="center"> 
