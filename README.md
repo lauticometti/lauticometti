@@ -5,16 +5,7 @@
 <br>
 <br>
 
-<div style="display:flex;">
-  <div>
-    <img src="./assets/things.svg" alt="Cinco cosas que me gustan"/>
-  </div>
-  <div>
-    <img src="./assets/hobbies.svg" alt="Hobbies"/>
-  </div>
-</div>
-
-# My stack:
+  <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
@@ -53,25 +44,33 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" 
     alt="webpack" width="40" height="40"/>          
   </a>
+  </p>
   
-  
+<br>
+<br>
 
-
-
-<div style="display: flex; justify-content: center; align-items: center ;gap:50px; border: 5px solid #000; border-radius: 10px; padding:15px; margin-bottom: 50px">
-  <h2 style="font-size: 32px">Conectemos:</h2>
-  <a href="https://www.linkedin.com/in/lautaro-cometti/" target="_blank" rel="noreferrer" style="display: flex; flex-direction:column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-    alt="linkedin" width="40" height="40" />
-    <h4 style="color: #CCC">Linkedin</h4>
-  </a>
-  
-  <a href="mailto:lautic003@gmail.com?subject=business&body=Hola%20Lautaro,%20te%20contacto%20porque..." target="_blank" rel="noreferrer" style="display: flex; flex-direction:column; align-items: center;">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"
-    alt="gmail" width="40" height="40" />
-    <h4 style="color: #CCC">Gmail</h4>
-  </a>
+<div align="center">
+  <div>
+    <img src="./assets/things.svg" alt="Cinco cosas que me gustan"/>
+  </div>
+  <div>
+    <img src="./assets/hobbies.svg" alt="Hobbies"/>
+  </div>
 </div>
+
+
+<h2 align="center">CONECTEMOS:<h2>
+<p align="center" style="padding-right:25px">
+  <a href="https://www.linkedin.com/in/lautaro-cometti/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+    alt="linkedin" width="70" height="70" />
+  </a>
+  
+  <a href="mailto:lautic003@gmail.com?subject=business&body=Hola%20Lautaro,%20te%20contacto%20porque..." target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"
+    alt="gmail" width="70" height="70" />
+  </a>
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=lauticometti&icon=7&color=6)](https://visitcount.itsvg.in)
 
