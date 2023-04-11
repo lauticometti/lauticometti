@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="./assets/hello.svg" alt="Hola! Soy Lauti. Bienvenido a mi pagina 🙌🏽 "/>
+  <img src="./assets/your_cool_intro.gif" alt="Hola! Soy Lauti. Bienvenido a mi pagina 🙌🏽 "/>
 </div>
 
 <br>
@@ -49,15 +49,30 @@
 <br>
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <div>
     <img src="./assets/things.svg" alt="Cinco cosas que me gustan"/>
   </div>
   <div>
     <img src="./assets/hobbies.svg" alt="Hobbies"/>
   </div>
-</div>
+</div> -->
 
+## Quien es Lautaro?
+
+<p>Un fullstack developer, con experiencia en proyectos web que utilizan tecnologias como React, Redux, Express, Sequelize, PostgreSQL y Firebase. Soy muy positivo, me encanta enseñar a los demas y mostrar el camino, disfruto trabajando con otros y tengo un pensamiento logico muy util para resolver problemas.</p>
+
+## Por que yo?
+
+<p>Ofrezco soluciones de buena calidad para quienes quieran destacar en la web, desarrollando sitios funcionales y dificiles de olvidar.</p>
+
+## Que busco?
+
+<p>Como desarrollador, me siento bien trabajando en equipos abiertos a nuevas ideas y con ansias de compartir las suyas. Busco ofrecer mis servicios en empresas que entiendan mi necesidad de continuar aprendiendo, dandome la oportunidad de tomar cursos y participar en workshops que me fortalezcan.</p>
+
+## Mi proyecto favorito:
+
+<strong><a href='https://airland-9c55f.web.app/'>Airland</a> 👟</strong>
 
 <h2 align="center">CONECTEMOS:<h2>
 <p align="center" style="padding-right:25px">
@@ -74,7 +89,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=lauticometti&icon=7&color=6)](https://visitcount.itsvg.in)
 
-<!-- 
+<!--
 
 # 📊 GitHub Stats:
 
