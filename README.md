@@ -74,6 +74,9 @@
 
 <strong><a href='https://airland-9c55f.web.app/'>Airland</a> 👟</strong>
 
+Airland es un ecommerce de zapatillas desarrollado en tres semanas por grupo de siete estudiantes que estaban por graduarse del bootcam de Henry. Utiliza React, Redux Toolkit, y Firebase, entre un montón de librerías más. El frontend se conecta con un backend creado con Express, y tambien directamente a Firebase.
+
+
 <h2 align="center">CONECTEMOS:<h2>
 <p align="center" style="padding-right:25px">
   <a href="https://www.linkedin.com/in/lautaro-cometti/" target="_blank" rel="noreferrer">
